@@ -1,0 +1,1 @@
+Clean "java + gradle + mockito" project ready-to-use
